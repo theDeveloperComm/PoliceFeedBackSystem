@@ -25,7 +25,7 @@ The Police Feedback System is a web-based application designed to facilitate the
 ### Prerequisites
 
 - Node.js and npm installed on the server.
-- MongoDB database for storing feedback data.
+- MongoDB/MySQl database for storing feedback data.
 
 ### Installation
 
@@ -67,10 +67,6 @@ If you would like to contribute to the development of the Police Feedback System
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or support, please contact the development team at [support@example.com](mailto:support@example.com).
 
 ---
 
